@@ -1,6 +1,6 @@
 function Shana(){
     return (
-        <h2> shana is cooked here</h2>
+        <h2> Shana is cooked here</h2>
     )
 }
 

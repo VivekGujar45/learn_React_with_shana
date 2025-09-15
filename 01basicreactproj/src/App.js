@@ -4,7 +4,7 @@
 function App() {
   return (
     <h1>
-      Code with Shana
+      Code with Shana | React Tutorial
     </h1>
   );
 }
